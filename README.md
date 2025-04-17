@@ -50,9 +50,7 @@ Before you begin, ensure you have the following installed:
 
 4. **Access Deployed Resources: Use kubectl to interact with your EKS cluster and the deployed tools (ArgoCD, Prometheus, Grafana, etc.).**
 
-### 📖 Detailed Guide
 
-For a complete step-by-step guide, including screenshots and detailed explanations, please refer to the [blog post](https://amanpathakdevops.medium.com/). This post covers all the necessary steps to successfully implement this project.
 
 ## Contributing
 We welcome contributions! If you have ideas for enhancements or find any issues, please open a pull request or file an issue.
